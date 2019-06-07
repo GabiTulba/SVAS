@@ -15,35 +15,35 @@ Here are some examples for the currently implemented sorting algorithms: <br>
 Note that MergeSort is a modified version that I made in order to make it a comparison sorting algorithm, the running time is O(N^2).
 
 1. BubbleSort: <br>
-![](examples/BubbleSort.png)
+![](examples/BubbleSort.png=150x)
 <br>
 
 2. SelectionSort: <br>
-![](examples/SelectionSort.png)
+![](examples/SelectionSort.png=150x)
 <br>
 
 3. InsertionSort: <br>
-![](examples/InsertionSort.png)
+![](examples/InsertionSort.png=150x)
 <br>
 
 4. MergeSort: <br>
-![](examples/MergeSort.png)
+![](examples/MergeSort.png=150x)
 <br>
 
 5. QuickSort: <br>
-![](examples/QuickSort.png)
+![](examples/QuickSort.png=150x)
 <br>
 
 6. HeapSort: <br>
-![](examples/HeapSort.png)
+![](examples/HeapSort.png=150x)
 <br>
 
 7. ShellSort: <br>
-![](examples/ShellSort.png)
+![](examples/ShellSort.png=150x)
 <br>
 
 8. CombSort: <br>
-![](examples/CombSort.png)
+![](examples/CombSort.png=150x)
 <br>
 
 More to be added soon! <br>
