@@ -1,4 +1,4 @@
-# Static Visualiser for Compariosn Sorting Algorithms
+# Static Visualiser for Comparison Sorting Algorithms
 
 ## Overview
 Static Visualiser for Comparison Sorting Algorithms (**SVCSA** for short) is a exactly what the name sugests, a tool for visualizing comparison sorting algorithms.  <br>
