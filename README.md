@@ -1,11 +1,11 @@
 # Static Visualiser for compariosn Sorting Algorithms
 
 ## Overview
-Static Visualiser for comparison Sorting Algorithms (**SVAS** for short) is a exactly what the name sugests, a tool for visualizing comparison sorting algorithms.  <br>
+Static Visualiser for comparison Sorting Algorithms (**SVSA** for short) is a exactly what the name sugests, a tool for visualizing comparison sorting algorithms.  <br>
 A static visualisation of a sorting algorithm is a graphic (see the examples below), of the states a vector goes through when it is being sorted by a specific algorithm.
 
 ## Instalation
-In order to use SVAS make sure you have a version of `python 3.x` installed and `Pillow`.
+In order to use SVSA make sure you have a version of `python 3.x` installed and `Pillow`.
 
 ## To Do:
 I intend to add a GIF animation option for the SortAnimater class.
