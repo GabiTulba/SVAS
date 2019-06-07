@@ -15,7 +15,7 @@ Here are some examples for the currently implemented sorting algorithms: <br>
 Note that MergeSort is a modified version that I made in order to make it a comparison sorting algorithm, the running time is O(N^2).
 
 1. BubbleSort: <br>
-![](examples/BubbleSort.png=150x)
+<img src="BubbleSort.png" alt="BubbleSort" width="150"/>
 <br>
 
 2. SelectionSort: <br>
