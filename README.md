@@ -15,35 +15,35 @@ Here are some examples for the currently implemented sorting algorithms: <br>
 Note that MergeSort is a modified version that I made in order to make it a comparison sorting algorithm, the running time is O(N^2).
 
 1. BubbleSort: <br>
-<img src="BubbleSort.png" alt="BubbleSort" width="150"/>
+<img src="examples/BubbleSort.png" alt="BubbleSort" width="150"/>
 <br>
 
 2. SelectionSort: <br>
-![](examples/SelectionSort.png=150x)
+<img src="examples/SelectionSort.png" alt="SelectionSort" width="150"/>
 <br>
 
 3. InsertionSort: <br>
-![](examples/InsertionSort.png=150x)
+<img src="examples/InsertionSort.png" alt="InsertionSort" width="150"/>
 <br>
 
 4. MergeSort: <br>
-![](examples/MergeSort.png=150x)
+<img src="examples/MergeSort.png" alt="MergeSort" width="150"/>
 <br>
 
 5. QuickSort: <br>
-![](examples/QuickSort.png=150x)
+<img src="examples/QuickSort.png" alt="QuickSort" width="150"/>
 <br>
 
 6. HeapSort: <br>
-![](examples/HeapSort.png=150x)
+<img src="examples/HeapSort.png" alt="HeapSort" width="150"/>
 <br>
 
 7. ShellSort: <br>
-![](examples/ShellSort.png=150x)
+<img src="examples/ShellSort.png" alt="ShellSort" width="150"/>
 <br>
 
 8. CombSort: <br>
-![](examples/CombSort.png=150x)
+<img src="examples/CombSort.png" alt="CombSort" width="150"/>
 <br>
 
 More to be added soon! <br>
