@@ -29,16 +29,18 @@ class SortAnimator:
 		self.statesLen = len(self.states)
 		
 	def ExportStatic(self, filename = None, show = True, save = False):
-		height = 25 * len(self.states) + 10
-		width = 25 * len(self.array) + 10
+		height = 26 * len(self.states)
+		width = 26 * len(self.array)
 		
 		img = Image.new("RGB", (width, height), (255, 255, 255))
 		drawer = ImageDraw.Draw(img)
 		
 		for i in range(self.statesLen - 1):
 			for j in range(self.arrayLen):
-				start = (25 * j + 5, 25 * i + 5)
-				end = (25 * self.states[i + 1].index(self.states[i][j]) + 5, 25 * (i + 1) + 5)
+				start = (26 * j + 13, 26 * i + 13)
+				end = (26 * self.states[i +
+                                    1].index(self.states[i][j]) + 13, 26 * (i +
+                                        1) + 13)
 				color = pickColor(self.states[-1].index(self.states[i][j]), self.arrayLen)
 				drawer.line([start, end], fill = color, width = 5)
 		
