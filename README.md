@@ -1,0 +1,1 @@
+# Static Visualizer For Sorting Algorithms
