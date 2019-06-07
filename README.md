@@ -2,7 +2,7 @@
 
 ## Overview
 Static Visualiser for Comparison Sorting Algorithms (**SVCSA** for short) is a exactly what the name sugests, a tool for visualizing comparison sorting algorithms.  <br>
-A static visualisation of a sorting algorithm is a graphic (see the examples below), of the states a vector goes through when it is being sorted by a specific algorithm.
+A static visualisation of a sorting algorithm is a graphic (see the examples below) of the states a vector goes through when it is being sorted by a specific algorithm.
 
 ## Instalation
 In order to use SVCSA make sure you have a version of `python 3.x` installed and `Pillow`.
